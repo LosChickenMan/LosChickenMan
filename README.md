@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ONLINE-00FF41?style=flat-square&labelColor=0D1117" />
 
 </div>
 
@@ -10,78 +10,58 @@
 
 ## `$ neofetch`
 
-<table>
+<table width="100%">
 <tr>
 <td bgcolor="#0D1117">
 
 <pre>
-<span style="color:#00FF41">loschickenman@github:~$ neofetch</span>
+🔴 🟡 🟢
 </pre>
 
-<table>
+<table width="100%">
 <tr>
-<td width="45%" align="center">
+<td width="35%" align="center">
 
 <pre>
-               :: :::
-               =+:: :.
-               =-=:.:
-            .:-+:+==-.
-          .-==-=-=--==-.
-       .:-==::::::::::-=-:.
-     :+*##-:::-::::::::-###+:
-    .*##*-:-:-=:::::::=:-*##*.
-    .*#*+:-=:--:::::::=-:+*#*.
-     +##-:=::=-::::::::=::##*
-     =#+:--::+-:::-::::--:+#+
-     -#=:=::-=-:::===:::=-=#-
-     .*=:=-:=--:::+=+-::=:=*:
-     .==:++--.=:::+=.---=:==:
-     -=-:+:=--+-::=+=:=+=--=-
-     ==--+-*+*+++-=+*+**+--==
-    .==:-=+:+**--:=***:+*-:==.
-    :==::+-:***.   +**=:+-:==:
-    -==::=.:+=+    ==+-.=::==-
-    -==::-..==-::::-==..=::-==
-    =+=:::=::.-+--=- ::=-::=+=
-    -+=:::--  :==-=:  -=:::=+=
-    -*+---:=-. :--: .:=::=-+*-
-    .+=*==::+==----=-+-:==*=+:
-     :.:=++:=: .....:=:++=-.:
-         .-=+:      :+=-.
-           .-.      .=.
+YOUR ASCII AVATAR
+GOES HERE
 
+Replace this section
+with your generated
+profile picture art.
 </pre>
 
 </td>
-<td width="55%">
+
+<td width="65%">
 
 <pre>
 loschickenman@github
-────────────────────────────────────
-Name:       Striker
-Role:       Backend or systems engineer
-Uptime:     2 years, 1 month on GitHub
-Languages:  Python
+────────────────────────────────────────────────────────────
+
+Name:          Striker
+Role:           Backend or systems engineer
+Uptime:         2 years, 1 month on GitHub
+Languages:      Python
 
 About
-────────────────────────────────────
+────────────────────────────────────────────────────────────
 sleep deprived
 
 Contact
-────────────────────────────────────
-GitHub:     github.com/loschickenman
+────────────────────────────────────────────────────────────
+GitHub:         github.com/loschickenman
 
 GitHub Stats
-────────────────────────────────────
-Repos:          2
-Stars:          0
-Followers:       0
-Following:       0
-Contributions:  26
-Active days:    4
-Streak:         0d
-Best streak:    2d
+────────────────────────────────────────────────────────────
+Repositories:         2
+Stars:               0
+Followers:            0
+Following:            0
+Contributions:       26
+Active days:          4
+Current streak:       0d
+Longest streak:       2d
 </pre>
 
 </td>
@@ -100,7 +80,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 
 ## `$ ls ~/projects`
 
-<table>
+<table width="100%">
 <tr>
 <td bgcolor="#0D1117">
 
@@ -108,13 +88,14 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 $ ls ~/projects
 </pre>
 
-<table>
+<table width="100%">
 <tr>
-<td>📁</td>
-<td><a href="https://github.com/loschickenman/CanSat-code"><b>CanSat-code/</b></a></td>
-<td>Code for my team's CanSat system</td>
-<td>★ 0</td>
+<td width="5%">📁</td>
+<td width="35%"><a href="https://github.com/loschickenman/CanSat-code"><b>CanSat-code/</b></a></td>
+<td width="50%">Code for my team's CanSat system</td>
+<td width="10%">★ 0</td>
 </tr>
+
 <tr>
 <td>📁</td>
 <td><a href="https://github.com/loschickenman/EncryptMe-Personal-Project"><b>EncryptMe-Personal-Project/</b></a></td>
@@ -135,7 +116,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 
 ## `$ cat languages.txt`
 
-<table>
+<table width="100%">
 <tr>
 <td bgcolor="#0D1117">
 
@@ -143,12 +124,12 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 $ cat languages.txt
 </pre>
 
-<table>
+<table width="100%">
 <tr>
-<td><b>Python</b></td>
-<td>
+<td width="15%"><b>Python</b></td>
+<td width="85%">
 
-<img src="https://img.shields.io/badge/Python-100%25-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Python-100%25-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117" width="100%" />
 
 </td>
 </tr>
@@ -166,7 +147,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 
 ## `$ git log --since=26.weeks`
 
-<table>
+<table width="100%">
 <tr>
 <td bgcolor="#0D1117">
 
@@ -174,14 +155,15 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 $ git log --since=26.weeks
 </pre>
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%">
+<td width="75%">
 
 <img src="./contributions.svg" width="100%" alt="GitHub contribution graph" />
 
 </td>
-<td>
+
+<td width="25%">
 
 <pre>
 STREAK
@@ -210,7 +192,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 
 ## `$ cat links.txt`
 
-<table>
+<table width="100%">
 <tr>
 <td bgcolor="#0D1117">
 
@@ -218,11 +200,11 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 $ cat links.txt
 </pre>
 
-<table>
+<table width="100%">
 <tr>
-<td>🌐</td>
-<td><a href="https://github.com/loschickenman">GitHub</a></td>
-<td>Repositories, projects, and contributions</td>
+<td width="5%">🌐</td>
+<td width="20%"><a href="https://github.com/loschickenman"><b>GitHub</b></a></td>
+<td width="75%">Repositories, projects, and contributions</td>
 </tr>
 </table>
 
