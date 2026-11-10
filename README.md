@@ -1,106 +1,227 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=000000&text=LosChickenMan&fontColor=00FF41&fontSize=48&fontAlignY=50&desc=PYTHON%20DEVELOPER%20%2F%2F%20SYSTEM%20ADMINISTRATOR&descAlignY=80&descSize=14" alt="LosChickenMan" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=loschickenman@github&fontSize=20&fontColor=58A6FF&fontAlign=50&fontAlignY=50" />
 
 </div>
 
-```text
-                 .---.                  LosChickenMan@github
-                |     |                 -------------------
-                |  _  |                 OS        : Linux
-               /| | | |\                Host      : GitHub
-              /_| |_| |_\\               Role      : Python Developer
-                |     |                 Focus     : System Administration
-               /|     |\                Languages : Python, Bash, C, LMC
-              /_|_____|_\\               Shell     : Bash
-                /  |  \                 Interests : Linux, automation,
-               /   |   \                           scripting, systems
-              /____|____\
-```
+<table>
+<tr>
+<td>
+
+🔴 🟡 🟢
+
+</td>
+<td align="right">
+
+<b>Preview</b>　Code　•••
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<table>
+<tr>
+<td>
+
+<pre>
+loschickenman@github:~$ neofetch
+</pre>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<table>
+<tr>
+<td width="45%" align="center">
+
+<pre>
+             ███
+          ▄▄▄██▄▄▄
+       ▄████████████▄
+      ████████████████
+     ██████████████████
+    ████████████████████
+    ████████████████████
+     ██████████████████
+      ████████████████
+       ██████████████
+        ███████████
+         ████████
+          ██████
+           ████
+            ██
+</pre>
+
+</td>
+<td width="55%">
+
+<pre>
+loschickenman@github
+────────────────────────────────────
+Name:       Striker
+Role:       Backend or systems engineer
+Uptime:     2 years, 1 month on GitHub
+Languages:  Python
+
+About
+────────────────────────────────────
+sleep deprived
+
+Contact
+────────────────────────────────────
+GitHub:     github.com/loschickenman
+
+GitHub Stats
+────────────────────────────────────
+Repos:          2
+Stars:          0
+Followers:       0
+Following:       0
+Contributions:  26
+Active days:    4
+Streak:         0d
+Best streak:    2d
+</pre>
+
+</td>
+</tr>
+</table>
+
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+🔴 🟡 🟢
+
+</td>
+</tr>
+<tr>
+<td>
+
+<pre>
+$ ls ~/projects
+</pre>
+
+<table>
+<tr>
+<td>📁</td>
+<td><a href="https://github.com/loschickenman/CanSat-code"><b>CanSat-code/</b></a></td>
+<td>Code for my team's CanSat system</td>
+<td>★ 0</td>
+</tr>
+<tr>
+<td>📁</td>
+<td><a href="https://github.com/loschickenman/EncryptMe-Personal-Project"><b>EncryptMe-Personal-Project/</b></a></td>
+<td>Something I made for my coursework during high school</td>
+<td>★ 0</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+🔴 🟡 🟢
+
+</td>
+</tr>
+<tr>
+<td>
+
+<pre>
+$ cat languages.txt
+</pre>
+
+<table>
+<tr>
+<td><b>Python</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+🔴 🟡 🟢
+
+</td>
+</tr>
+<tr>
+<td>
+
+<pre>
+$ git log --since=26.weeks
+</pre>
+
+<table>
+<tr>
+<td width="65%">
+
+<img src="https://ghchart.rshah.org/22c55e/loschickenman" width="100%" alt="GitHub contribution graph" />
+
+</td>
+<td>
+
+<pre>
+STREAK
+0 days
+
+LONGEST
+2 days
+
+COMMITS THIS YEAR
+26
+</pre>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
-<img src="assets/cursor.gif" width="12" alt="blinking terminal cursor" />
-</div>
 
-## `~/about` <img src="assets/cursor.gif" width="10" alt="cursor" />
+<code>~/links</code>
 
-> Python developer and system administrator interested in scripting, automation, Linux, and understanding how things work under the hood.
+<a href="https://github.com/loschickenman">GitHub</a>
 
-- `+` Building useful tools and scripts
-- `+` Exploring Linux and system administration
-- `+` Learning Python, Bash, C, and Little Man Computer
-- `+` Always learning. Always building.
+<br><br>
 
-<div align="center">
-<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
-</div>
-
-## `~/stack` <img src="assets/cursor.gif" width="10" alt="cursor" />
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-00FF41?style=flat-square&logo=python&logoColor=000000)](https://python.org)
-[![Bash](https://img.shields.io/badge/Bash-00FF41?style=flat-square&logo=gnubash&logoColor=000000)](https://www.gnu.org/software/bash/)
-[![C](https://img.shields.io/badge/C-00FF41?style=flat-square&logo=c&logoColor=000000)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Linux](https://img.shields.io/badge/Linux-00FF41?style=flat-square&logo=linux&logoColor=000000)](https://kernel.org)
-[![Git](https://img.shields.io/badge/Git-00FF41?style=flat-square&logo=git&logoColor=000000)](https://git-scm.com)
-
-</div>
-
-```text
-PROGRAMMING  Python / Bash / C / LMC
-SYSTEMS      Linux
-TOOLS        Git / GitHub
-FOCUS        Automation / Sysadmin / Low-level computing
-```
-
-<div align="center">
-<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
-</div>
-
-## `~/projects` <img src="assets/cursor.gif" width="10" alt="cursor" />
-
-```text
-[+] Python utilities and automation
-[+] Linux administration scripts
-[+] Bash tools
-[+] C programming experiments
-[+] LMC projects
-```
-
-Browse my repositories for projects and experiments.
-
-<div align="center">
-<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
-</div>
-
-## `~/github` <img src="assets/cursor.gif" width="10" alt="cursor" />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LosChickenMan&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LosChickenMan&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" alt="Top languages" />
-
-</div>
-
-<div align="center">
-<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
-</div>
-
-## `~/contact` <img src="assets/cursor.gif" width="10" alt="cursor" />
-
-```text
-GitHub  : https://github.com/LosChickenMan
-```
-
-<div align="center">
-
-```text
-BUILD // AUTOMATE // UNDERSTAND
-```
-
-<img src="https://komarev.com/ghpvc/?username=LosChickenMan&style=flat-square&color=00FF41&label=PROFILE+VISITS" alt="Profile visits" />
+<sub>Striker · Neofetch card generated with GitSkins</sub>
 
 </div>
