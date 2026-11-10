@@ -1,5 +1,15 @@
 # `loschickenman@github`
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/ONLINE-00FF41?style=flat-square&labelColor=0D1117" />
+
+</div>
+
+---
+
+## `$ neofetch`
+
 <table width="100%">
 <tr>
 <td bgcolor="#0D1117">
@@ -13,11 +23,16 @@
 <td width="35%" align="center">
 
 <pre>
-YOUR ASCII ART
+YOUR ASCII AVATAR
 GOES HERE
+
+Replace this section
+with your generated
+profile picture art.
 </pre>
 
 </td>
+
 <td width="65%">
 
 <pre>
@@ -54,6 +69,22 @@ Longest streak:       2d
 </table>
 
 <pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ls ~/projects`
+
+<table width="100%">
+<tr>
+<td bgcolor="#0D1117">
+
+<pre>
 $ ls ~/projects
 </pre>
 
@@ -64,6 +95,7 @@ $ ls ~/projects
 <td width="50%">Code for my team's CanSat system</td>
 <td width="10%">★ 0</td>
 </tr>
+
 <tr>
 <td>📁</td>
 <td><a href="https://github.com/loschickenman/EncryptMe-Personal-Project"><b>EncryptMe-Personal-Project/</b></a></td>
@@ -73,12 +105,28 @@ $ ls ~/projects
 </table>
 
 <pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat languages.txt`
+
+<table width="100%">
+<tr>
+<td bgcolor="#0D1117">
+
+<pre>
 $ cat languages.txt
 </pre>
 
 <table width="100%">
 <tr>
-<td width="15%">Python</td>
+<td width="15%"><b>Python</b></td>
 <td width="85%">
 
 <img src="https://img.shields.io/badge/Python-100%25-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117" width="100%" />
@@ -86,6 +134,22 @@ $ cat languages.txt
 </td>
 </tr>
 </table>
+
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ git log --since=26.weeks`
+
+<table width="100%">
+<tr>
+<td bgcolor="#0D1117">
 
 <pre>
 $ git log --since=26.weeks
@@ -98,6 +162,7 @@ $ git log --since=26.weeks
 <img src="./contributions.svg" width="100%" alt="GitHub contribution graph" />
 
 </td>
+
 <td width="25%">
 
 <pre>
@@ -114,6 +179,22 @@ COMMITS THIS YEAR
 </td>
 </tr>
 </table>
+
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat links.txt`
+
+<table width="100%">
+<tr>
+<td bgcolor="#0D1117">
 
 <pre>
 $ cat links.txt
@@ -135,7 +216,15 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 </tr>
 </table>
 
+---
+
 <div align="center">
+
+<code>~/links</code>
+
+<a href="https://github.com/loschickenman">GitHub</a>
+
+<br><br>
 
 <sub>Striker · Neofetch-inspired profile</sub>
 
