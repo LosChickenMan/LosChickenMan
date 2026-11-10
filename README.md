@@ -1,38 +1,22 @@
+# `loschickenman@github`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=loschickenman@github&fontSize=20&fontColor=58A6FF&fontAlign=50&fontAlignY=50" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=0D1117" />
 
 </div>
 
-<table>
-<tr>
-<td>
+---
 
-🔴 🟡 🟢
-
-</td>
-<td align="right">
-
-<b>Preview</b>　Code　•••
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
+## `$ neofetch`
 
 <table>
 <tr>
-<td>
+<td bgcolor="#0D1117">
 
 <pre>
-loschickenman@github:~$ neofetch
+<span style="color:#00FF41">loschickenman@github:~$ neofetch</span>
 </pre>
-
-</td>
-</tr>
-<tr>
-<td>
 
 <table>
 <tr>
@@ -99,18 +83,13 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 </tr>
 </table>
 
-<br>
+---
+
+## `$ ls ~/projects`
 
 <table>
 <tr>
-<td>
-
-🔴 🟡 🟢
-
-</td>
-</tr>
-<tr>
-<td>
+<td bgcolor="#0D1117">
 
 <pre>
 $ ls ~/projects
@@ -126,27 +105,26 @@ $ ls ~/projects
 <tr>
 <td>📁</td>
 <td><a href="https://github.com/loschickenman/EncryptMe-Personal-Project"><b>EncryptMe-Personal-Project/</b></a></td>
-<td>Something I made for my coursework during high school</td>
+<td>Personal coursework project</td>
 <td>★ 0</td>
 </tr>
 </table>
 
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## `$ cat languages.txt`
 
 <table>
 <tr>
-<td>
-
-🔴 🟡 🟢
-
-</td>
-</tr>
-<tr>
-<td>
+<td bgcolor="#0D1117">
 
 <pre>
 $ cat languages.txt
@@ -157,28 +135,27 @@ $ cat languages.txt
 <td><b>Python</b></td>
 <td>
 
-<img src="https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-100%25-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117" />
 
 </td>
 </tr>
 </table>
 
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## `$ git log --since=26.weeks`
 
 <table>
 <tr>
-<td>
-
-🔴 🟡 🟢
-
-</td>
-</tr>
-<tr>
-<td>
+<td bgcolor="#0D1117">
 
 <pre>
 $ git log --since=26.weeks
@@ -188,7 +165,7 @@ $ git log --since=26.weeks
 <tr>
 <td width="65%">
 
-<img src="https://ghchart.rshah.org/22c55e/loschickenman" width="100%" alt="GitHub contribution graph" />
+<img src="./contributions.svg" width="100%" alt="GitHub contribution graph" />
 
 </td>
 <td>
@@ -208,11 +185,43 @@ COMMITS THIS YEAR
 </tr>
 </table>
 
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## `$ cat links.txt`
+
+<table>
+<tr>
+<td bgcolor="#0D1117">
+
+<pre>
+$ cat links.txt
+</pre>
+
+<table>
+<tr>
+<td>🌐</td>
+<td><a href="https://github.com/loschickenman">GitHub</a></td>
+<td>Repositories, projects, and contributions</td>
+</tr>
+</table>
+
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -222,6 +231,6 @@ COMMITS THIS YEAR
 
 <br><br>
 
-<sub>Striker · Neofetch card generated with GitSkins</sub>
+<sub>Striker · Neofetch-inspired profile</sub>
 
 </div>
