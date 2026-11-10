@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A passionate frontend developer from the United Kingdom</h3>
 
+- 🔭 I’m currently working on **Open-Sunsama IOS port**
+
+- 🌱 I’m currently learning **ML/LLMs and Encryption**
+
+- 🤝 I’m looking for help with **Local LLM automation**
+
+- 💬 Ask me about **ML/LLMs and Encryption Algorithms**
+
+- 📫 How to reach me **ismailchoudhury47h@gmail.com**
+
+- ⚡ Fun fact **I'm a tea person :D**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
