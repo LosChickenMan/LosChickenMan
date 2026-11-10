@@ -14,25 +14,15 @@
 <tr>
 <td bgcolor="#0D1117">
 
-<pre>
-🔴 🟡 🟢
-</pre>
+<pre>🔴 🟡 🟢</pre>
 
 <table width="100%">
 <tr>
 <td width="35%" align="center">
 
-<pre>
-YOUR ASCII AVATAR
-GOES HERE
-
-Replace this section
-with your generated
-profile picture art.
-</pre>
+<img src="./avatar.png" width="100%" alt="Profile avatar" />
 
 </td>
-
 <td width="65%">
 
 <pre>
@@ -68,9 +58,7 @@ Longest streak:       2d
 </tr>
 </table>
 
-<pre>
-loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
-</pre>
+<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
 
 </td>
 </tr>
@@ -84,9 +72,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 <tr>
 <td bgcolor="#0D1117">
 
-<pre>
-$ ls ~/projects
-</pre>
+<pre>$ ls ~/projects</pre>
 
 <table width="100%">
 <tr>
@@ -95,7 +81,6 @@ $ ls ~/projects
 <td width="50%">Code for my team's CanSat system</td>
 <td width="10%">★ 0</td>
 </tr>
-
 <tr>
 <td>📁</td>
 <td><a href="https://github.com/loschickenman/EncryptMe-Personal-Project"><b>EncryptMe-Personal-Project/</b></a></td>
@@ -104,9 +89,7 @@ $ ls ~/projects
 </tr>
 </table>
 
-<pre>
-loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
-</pre>
+<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
 
 </td>
 </tr>
@@ -120,9 +103,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 <tr>
 <td bgcolor="#0D1117">
 
-<pre>
-$ cat languages.txt
-</pre>
+<pre>$ cat languages.txt</pre>
 
 <table width="100%">
 <tr>
@@ -135,9 +116,7 @@ $ cat languages.txt
 </tr>
 </table>
 
-<pre>
-loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
-</pre>
+<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
 
 </td>
 </tr>
@@ -151,9 +130,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 <tr>
 <td bgcolor="#0D1117">
 
-<pre>
-$ git log --since=26.weeks
-</pre>
+<pre>$ git log --since=26.weeks</pre>
 
 <table width="100%">
 <tr>
@@ -162,7 +139,6 @@ $ git log --since=26.weeks
 <img src="./contributions.svg" width="100%" alt="GitHub contribution graph" />
 
 </td>
-
 <td width="25%">
 
 <pre>
@@ -180,9 +156,7 @@ COMMITS THIS YEAR
 </tr>
 </table>
 
-<pre>
-loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
-</pre>
+<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
 
 </td>
 </tr>
@@ -196,9 +170,7 @@ loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" 
 <tr>
 <td bgcolor="#0D1117">
 
-<pre>
-$ cat links.txt
-</pre>
+<pre>$ cat links.txt</pre>
 
 <table width="100%">
 <tr>
@@ -208,9 +180,7 @@ $ cat links.txt
 </tr>
 </table>
 
-<pre>
-loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
-</pre>
+<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
 
 </td>
 </tr>
