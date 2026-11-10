@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=000000&text=LosChickenMan&fontColor=00FF41&fontSize=48&fontAlignY=50&desc=PYTHON%20DEVELOPER%20%2F%2F%20SYSTEM%20ADMINISTRATOR&descAlignY=80&descSize=14" alt="LosChickenMan" />
@@ -18,7 +19,11 @@
               /____|____\
 ```
 
-## `~/about`
+<div align="center">
+<img src="assets/cursor.gif" width="12" alt="blinking terminal cursor" />
+</div>
+
+## `~/about` <img src="assets/cursor.gif" width="10" alt="cursor" />
 
 > Python developer and system administrator interested in scripting, automation, Linux, and understanding how things work under the hood.
 
@@ -27,7 +32,11 @@
 - `+` Learning Python, Bash, C, and Little Man Computer
 - `+` Always learning. Always building.
 
-## `~/stack`
+<div align="center">
+<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
+</div>
+
+## `~/stack` <img src="assets/cursor.gif" width="10" alt="cursor" />
 
 <div align="center">
 
@@ -46,7 +55,11 @@ TOOLS        Git / GitHub
 FOCUS        Automation / Sysadmin / Low-level computing
 ```
 
-## `~/projects`
+<div align="center">
+<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
+</div>
+
+## `~/projects` <img src="assets/cursor.gif" width="10" alt="cursor" />
 
 ```text
 [+] Python utilities and automation
@@ -58,7 +71,11 @@ FOCUS        Automation / Sysadmin / Low-level computing
 
 Browse my repositories for projects and experiments.
 
-## `~/github`
+<div align="center">
+<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
+</div>
+
+## `~/github` <img src="assets/cursor.gif" width="10" alt="cursor" />
 
 <div align="center">
 
@@ -68,7 +85,11 @@ Browse my repositories for projects and experiments.
 
 </div>
 
-## `~/contact`
+<div align="center">
+<img src="assets/cursor.gif" width="10" alt="blinking cursor" />
+</div>
+
+## `~/contact` <img src="assets/cursor.gif" width="10" alt="cursor" />
 
 ```text
 GitHub  : https://github.com/LosChickenMan
