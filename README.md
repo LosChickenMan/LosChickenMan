@@ -1,26 +1,21 @@
 # `loschickenman@github`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ONLINE-00FF41?style=flat-square&labelColor=0D1117" />
-
-</div>
-
----
-
-## `$ neofetch`
-
 <table width="100%">
 <tr>
 <td bgcolor="#0D1117">
 
-<pre>🔴 🟡 🟢</pre>
+<pre>
+🔴 🟡 🟢
+</pre>
 
 <table width="100%">
 <tr>
 <td width="35%" align="center">
 
-<img src="./avatar.png" width="100%" alt="Profile avatar" />
+<pre>
+YOUR ASCII ART
+GOES HERE
+</pre>
 
 </td>
 <td width="65%">
@@ -58,21 +53,9 @@ Longest streak:       2d
 </tr>
 </table>
 
-<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ ls ~/projects`
-
-<table width="100%">
-<tr>
-<td bgcolor="#0D1117">
-
-<pre>$ ls ~/projects</pre>
+<pre>
+$ ls ~/projects
+</pre>
 
 <table width="100%">
 <tr>
@@ -89,25 +72,13 @@ Longest streak:       2d
 </tr>
 </table>
 
-<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ cat languages.txt`
+<pre>
+$ cat languages.txt
+</pre>
 
 <table width="100%">
 <tr>
-<td bgcolor="#0D1117">
-
-<pre>$ cat languages.txt</pre>
-
-<table width="100%">
-<tr>
-<td width="15%"><b>Python</b></td>
+<td width="15%">Python</td>
 <td width="85%">
 
 <img src="https://img.shields.io/badge/Python-100%25-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0D1117" width="100%" />
@@ -116,21 +87,9 @@ Longest streak:       2d
 </tr>
 </table>
 
-<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ git log --since=26.weeks`
-
-<table width="100%">
-<tr>
-<td bgcolor="#0D1117">
-
-<pre>$ git log --since=26.weeks</pre>
+<pre>
+$ git log --since=26.weeks
+</pre>
 
 <table width="100%">
 <tr>
@@ -156,21 +115,9 @@ COMMITS THIS YEAR
 </tr>
 </table>
 
-<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ cat links.txt`
-
-<table width="100%">
-<tr>
-<td bgcolor="#0D1117">
-
-<pre>$ cat links.txt</pre>
+<pre>
+$ cat links.txt
+</pre>
 
 <table width="100%">
 <tr>
@@ -180,21 +127,15 @@ COMMITS THIS YEAR
 </tr>
 </table>
 
-<pre>loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" /></pre>
+<pre>
+loschickenman@github:~$ <img src="./cursor.gif" width="9" height="17" alt="▊" />
+</pre>
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
-
-<code>~/links</code>
-
-<a href="https://github.com/loschickenman">GitHub</a>
-
-<br><br>
 
 <sub>Striker · Neofetch-inspired profile</sub>
 
